@@ -1,6 +1,6 @@
 # Econ 148 Final Project
 ## Group Members: Karina Parikh, Alex Chow, Ria Raniwala, Mona Abai, and Nithika Valluri
-## Track B: Paper Reproduction --- "The Fake News Effect: Experimentally Identifying Motivated Reasoning Using Trust in News" by Michael Thaler
+## Track B - Paper Reproduction: "The Fake News Effect: Experimentally Identifying Motivated Reasoning Using Trust in News" by Michael Thaler
 
 This project replicates the experimental findings from Michael Thaler’s 2024 study on politically motivated reasoning. The study uses a novel experimental design to identify motivated reasoning by analyzing how subjects assess the truthfulness of news that either aligns with (Pro-Party) or contradicts (Anti-Party) their political motives.  
 
