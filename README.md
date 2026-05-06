@@ -17,7 +17,7 @@ To run the replication script (fake_news_econ148_proj.ipynb), ensure you have th
 ### 2. Dataset Setup
 The replication requires the experimental dataset, typically named cleaned_data.csv.
 
-Data Path: The notebook is configured to load data from a Google Drive path: /content/drive/MyDrive/Econ148_project_data/cleaned_data.csv.
+- Data Path: The notebook is configured to load data from a Google Drive path: /content/drive/MyDrive/Econ148_project_data/cleaned_data.csv.
 - to run without a Google Drive shortcut, the original cleaned dataset can be downloaded via https://www.openicpsr.org/openicpsr/project/183845/version/V1/view?path=/openicpsr/183845/fcr:versions/V1/fake-news-effect_code&type=folder
 
 Variables: The dataset contains 331 columns, including subject IDs, treatment groups, political leanings, and veracity assessments (prob_true).
