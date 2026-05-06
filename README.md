@@ -45,5 +45,5 @@ The notebook calculates assessments to show that:
 - Confidence Intervals: The study explores how motivated reasoning leads to overprecision, where subjects' 50% confidence intervals often fail to contain the true answer.
 
 
-Reference: Thaler, M. (2024). The Fake News Effect: Experimentally Identifying Motivated Reasoning Using Trust in News. American Economic Journal: Microeconomics.
+Reference: _Thaler, M. (2024). The Fake News Effect: Experimentally Identifying Motivated Reasoning Using Trust in News. American Economic Journal: Microeconomics._
 
