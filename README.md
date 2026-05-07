@@ -14,7 +14,7 @@ To run the replication script (fake_news_econ148_proj.ipynb), ensure you have th
 
 - Econometric Packages: linearmodels and pyfixest (used for fixed-effects regressions and instrumental variables).
 
-- We recommend running the script in VSCode, otherwise it might take a while to load in all the figures.
+- We recommend running the script in in Datahub or VSCode to avoid manual data upload, otherwise you will have to upload the data into an accessible area.
 
 ### 2. Dataset Setup
 The replication requires the experimental dataset, typically named cleaned_data.csv.
